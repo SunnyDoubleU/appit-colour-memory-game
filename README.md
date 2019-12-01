@@ -2,10 +2,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Colour Memory Game
 
-Flip 2 cards each round to find a match
-Receive 5 points if flipped pair is a match
-Lose 1 point if flipped pair is not a match
-Win the most points to enter our leaderboad!
+- Flip 2 cards each round to find a match
+- Receive 5 points if flipped pair is a match
+- Lose 1 point if flipped pair is not a match
+- Win the most points to enter our leaderboad!
 
 ## Accessing the game
 
