@@ -1,0 +1,47 @@
+.Home{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+        margin: 0 0;
+        img{
+            width: 300px;
+            height: 300px;
+            margin: 0 0;
+        }
+        h1{
+            text-transform: uppercase;
+            font-weight: 800;
+            margin: 0 0 2vh 0;
+            color: #484848;
+        }
+        ul{
+            text-align: center;
+            padding: 0 0 2vh 0;
+            li{
+                list-style: none;
+                color: #484848;
+                line-height: 2rem;
+            }
+        }
+        
+        .normal-button{
+            background: orange;
+            font-size: 1rem;
+            font-weight: 800;
+            border-radius: 30px;
+            color: white;
+            padding: 15px 20px;
+            text-transform: uppercase;
+            border: none;
+            margin: 0 0 10vh 0 
+        }
+        .normal-button:hover {
+            transition: 0.6s;
+            background: #ef6824;
+            box-shadow: 5px 5px #ddd;
+        }
+        
+
+    }

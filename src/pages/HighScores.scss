@@ -1,0 +1,115 @@
+.high-score {
+    display: absolute;
+    top: 10;
+    left: 10;
+    z-index: 3;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    h1 {
+        color: #484848;
+        text-transform: uppercase;
+        font-weight: 800;
+        margin-top: 8vh;
+    }
+    h2 {
+        color: #484848;
+        text-transform: uppercase;
+        font-weight: 800;
+        margin: 0 0;
+        background: #ddd;
+        border-radius: 10px;
+        padding: 10px;
+    }
+    h3, p{
+        color: #484848;
+    }
+    .normal-button{
+        background: orange;
+        font-size: 0.8rem;
+        font-weight: 800;
+        border-radius: 30px;
+        color: white;
+        padding: 15px 10px;
+        text-transform: uppercase;
+        border: none;
+        margin: 0 0 0 0
+        
+    }
+    .normal-button:hover {
+        transition: 0.6s;
+        background: #ef6824;
+        box-shadow: 5px 5px #ddd;
+    }
+}
+
+img {
+    width: 60px;
+    margin: 2vh;
+}
+
+th, td {
+    width: 20vw;
+    text-align: center;
+    padding: 1vh;
+  }
+
+  th {
+      text-transform: uppercase;
+      color: white;
+      background: orange;
+  }
+
+  td {
+      color: #484848;
+      text-transform: uppercase;
+      font-weight: 600;
+      border-bottom: 1px solid #ddd;
+  }
+
+  .table-container{
+    overflow: scroll;  
+    max-height:30vh;
+    margin-bottom: 4vh
+  }
+
+  table {
+    border-collapse: collapse;
+    border-spacing: 0;
+    margin:2vh 0  4vh 0;
+}
+  
+input {
+    width: 40vw;
+    padding: 15px;
+    border: 1px solid #ddd;
+    @media (min-width: 642px){
+        transition: 0.6s;
+        width: 20vw;
+    }
+}
+.submit-btn{
+    background: orange;
+    font-size: 0.8rem;
+    font-weight: 800;
+    color: white;
+    padding: 15px 10px;
+    text-transform: uppercase;
+    border: none;
+    margin: 0 0 0 0
+}
+
+form{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+.input-container {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin:0 0  2vh 0;
+}
+}

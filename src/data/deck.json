@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "colorCode": "#913CCD",
+        "type": "purple"
+    },
+    {
+        "id": 2,
+        "colorCode": "#F05F74",
+        "type": "pink"
+    },
+    {
+        "id": 3,
+        "colorCode": "#F76D3C",
+        "type": "orange"
+    },
+    {
+        "id": 4,
+        "colorCode": "#F7D842",
+        "type": "yellow"
+    },
+    {
+        "id": 5,
+        "colorCode": "#2ba7c2",
+        "type": "teal"
+    },
+    {
+        "id": 6,
+        "colorCode": "#98CA4A",
+        "type": "green"
+    },
+    {
+        "id": 7,
+        "colorCode": "#829098",
+        "type": "grey"
+    },
+    {
+        "id": 8,
+        "colorCode": "#5381E6",
+        "type": "blue"
+    },
+    {
+        "id": 9,
+        "colorCode": "#913CCD",
+        "type": "purple"
+    },
+    {
+        "id": 10,
+        "colorCode": "#F05F74",
+        "type": "pink"
+    },
+    {
+        "id": 11,
+        "colorCode": "#F76D3C",
+        "type": "orange"
+    },
+    {
+        "id": 12,
+        "colorCode": "#F7D842",
+        "type": "yellow"
+    },
+    {
+        "id": 13,
+        "colorCode": "#2ba7c2",
+        "type": "teal"
+    },
+    {
+        "id": 14,
+        "colorCode": "#98CA4A",
+        "type": "green"
+    },
+    {
+        "id": 15,
+        "colorCode": "#829098",
+        "type": "grey"
+    },
+    {
+        "id": 16,
+        "colorCode": "#5381E6",
+        "type": "blue"
+    }
+]
