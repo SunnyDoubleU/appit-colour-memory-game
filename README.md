@@ -14,3 +14,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 3. # `npm install --save`
 4. # `npm start` to run the app in development mode
 5. Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+
+OR
+
+Play it via https://master.d1qxarzrly0gip.amplifyapp.com/game
